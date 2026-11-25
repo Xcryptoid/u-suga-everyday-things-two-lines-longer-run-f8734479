@@ -1,0 +1,2 @@
+A queue is a caterpillar made of people: it only moves when the head takes a step, and each body behind it follows.
+It maps the one-after-another order and the slow shuffle forward, but it leaves out that people in a queue can talk, swap places, or leave — a caterpillar's segments cannot.
